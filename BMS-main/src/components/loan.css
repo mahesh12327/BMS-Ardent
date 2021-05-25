@@ -1,0 +1,17 @@
+.loan-container {
+  height: 90vh;
+  background-color: wheat;
+}
+
+.field {
+  padding-top: 20px;
+}
+
+label {
+  color: brown;
+  font-size: 20px;
+}
+
+.loan-options {
+  font-size: 15px !important;
+}

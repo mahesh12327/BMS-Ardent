@@ -1,0 +1,15 @@
+.register {
+  background-color: brown;
+  padding: 0 !important;
+  height: 10vh;
+}
+
+.register-text a {
+  text-decoration: none;
+  color: wheat;
+  font-size: 30px;
+}
+
+.register-text a:hover {
+  color: rgb(255, 198, 93);
+}

@@ -1,0 +1,10 @@
+.home-container {
+  padding: 40px 60px 0 60px;
+  height: 90vh;
+  background-color: wheat;
+}
+
+.card-body {
+  box-shadow: 1px 1px 3px 3px rgb(221, 199, 159);
+  border-radius: 5px;
+}

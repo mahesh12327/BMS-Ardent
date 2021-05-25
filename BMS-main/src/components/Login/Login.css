@@ -1,0 +1,35 @@
+.login-container {
+  margin: 0;
+  padding: 0 !important;
+  background-color: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.MuiContainer-root {
+  width: 300px !important;
+}
+
+.login {
+  color: brown;
+  font-size: 15px;
+}
+
+.login h1 {
+  font-size: 30px;
+}
+
+input {
+  width: 300px !important;
+}
+
+.submit_btn {
+  background-color: brown;
+  color: wheat;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  line-height: 24px;
+}

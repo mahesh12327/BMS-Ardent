@@ -1,0 +1,56 @@
+.form-container {
+  font-size: 15px;
+  background-color: wheat;
+  color: brown;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  font-size: 15px !important;
+  width: 200px !important;
+  color: brown !important;
+}
+
+select {
+  width: 200px !important;
+  font-size: 10px !important;
+}
+
+.radio {
+  display: flex;
+}
+
+.radio input {
+  margin-top: 5px !important;
+  width: 50px !important;
+}
+
+.radio-1 {
+  display: flex;
+}
+
+.radio-1 input {
+  margin-top: 5px !important;
+  width: 50px !important;
+}
+
+.radio-btn {
+  padding: 10px;
+}
+
+.submit_btn {
+  background-color: brown;
+  color: wheat;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  line-height: 24px;
+}
+
+.sub {
+  text-align: end;
+}
